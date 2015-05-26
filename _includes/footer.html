@@ -1,7 +1,7 @@
 <footer class="footer">
   <div class="container">
 	<p class="pull-right">{% if page.previous.url %} <a href="{{page.previous.url}}" title="Post anterior: {{page.previous.title}}">&laquo; Post anterior</a> 	{% endif %}  |  <a href="#">Voltar ao topo</a>  |  {% if page.next.url %} 	<a href="{{page.next.url}}" title="Próximo post: {{page.next.title}}">Próximo post &raquo; </a> 	{% endif %} </p>        
-	<p>Page last generated on {{ site.time | date: "%B %e, %Y" }}</p>
+	<p>Esta página estática foi gerada pela última vez em {{ site.time | date: "%d %m, %Y" }}</p>
 	<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>	
   </div>
 </footer>
