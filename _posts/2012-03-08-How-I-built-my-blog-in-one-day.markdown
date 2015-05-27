@@ -155,14 +155,14 @@ image: post_one.jpg
 
 <div class="row">	
     <div class="span9 columns">    
-		<h2>Comments Section</h2>
-	    <p>Feel free to comment on the post but keep it clean and on topic.</p>	
+		<h2>Seção de comentários</h2>
+	    <p>Dê sua opinião sobre o post.</p>	
 		<div id="disqus_thread"></div>
 		<script type="text/javascript">
 			/* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-			var disqus_shortname = 'ericjones'; // required: replace example with your forum shortname
-			var disqus_identifier = '/blog/How-I-built-my-blog-in-one-day';
-			var disqus_url = '/blog/How-I-built-my-blog-in-one-day';
+			var disqus_shortname = 'pgodoy231githubio'; // required: replace example with your forum shortname
+			var disqus_identifier = '/blog/Instrutores-da-Multirede-recebem-premio-2015';
+			var disqus_url = '/blog/Instrutores-da-Multirede-recebem-premio-2015';
 			
 			/* * * DON'T EDIT BELOW THIS LINE * * */
 			(function() {
@@ -171,8 +171,8 @@ image: post_one.jpg
 				(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
 			})();
 		</script>
-		<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-		<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+		<noscript>Por favor, habilite seu JavaScript para visualizar <a href="http://disqus.com/?ref_noscript">os comentários.</a></noscript>
+		<!--<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>-->
 	</div>
 </div>
 
