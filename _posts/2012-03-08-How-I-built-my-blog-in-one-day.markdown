@@ -1,13 +1,13 @@
 ---
 layout: post
-title: How I built my blog in one day
-category: Coding
-tags: jekyll bootstrap github disqus
-year: 2012
-month: 3
-day: 8
+title: Instrutores da Multirede recebem prêmio “Instructor Excellence Award”. 
+category: Educação
+tags: cisco educacao tic ti multirede
+year: 2015
+month: 5
+day: 27
 published: true
-summary: A tutorial on how I built my blog
+summary: Prêmio é dado aos instrutores que atingiram uma média alta na pesquisa de satisfação e qualidade dos cursos Cisco.
 image: post_one.jpg
 ---
 
