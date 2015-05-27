@@ -13,8 +13,8 @@ image: post_one.jpg
 
 <div class="row">	
 	<div class="span9 columns">
-	  <h2>Preface</h2>
-	  <p>How I did this blog is nothing new, as a matter of fact many have done exactly what I did and it is well documented. This post is just on how I did it and since it is all very fresh in my mind I thought I would write a post about it.  For other tutorials on how to do this checkout these:</p>  	  
+	  <h2>Prêmio é dado aos instrutores que atingiram uma média alta na pesquisa de satisfação e qualidade dos cursos Cisco.</h2>
+	  <p>A Multirede tem a satisfação de informar que os instrutores André Grachina, Fernando Penteado, Marcelo Alcantara e Vitor Mazali foram reconhecidos pela Cisco como parte do seleto grupo dos melhores profissionais em suas áreas de especialização</p>  	  
 	  <ul>
 		<li><a href="http://jekyllbootstrap.com/" target="_blank">jekyllbootstrap</a></li>
 		<li><a href="https://github.com/mojombo/jekyll/wiki" target="_blank">mojombo/jekyll</a></li>
