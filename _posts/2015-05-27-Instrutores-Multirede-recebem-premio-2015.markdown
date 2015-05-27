@@ -15,11 +15,7 @@ image: post_one.jpg
 	<div class="span9 columns">
 	  <h2>Prêmio é dado aos instrutores que atingiram uma média alta na pesquisa de satisfação e qualidade dos cursos Cisco.</h2>
 	  <p>A Multirede tem a satisfação de informar que os instrutores André Grachina, Fernando Penteado, Marcelo Alcantara e Vitor Mazali foram reconhecidos pela Cisco como parte do seleto grupo dos melhores profissionais em suas áreas de especialização</p>  	  
-	  <ul>
-		<li><a href="http://jekyllbootstrap.com/" target="_blank">jekyllbootstrap</a></li>
-		<li><a href="https://github.com/mojombo/jekyll/wiki" target="_blank">mojombo/jekyll</a></li>
-	  </ul>
-	  <p><a href="http://news.ycombinator.com/item?id=3679495" target="_blank" title="Read what others are saying on news.ycombinator right now">Read what others are saying</a> on news.ycombinator.</p>
+	  <p>Esse reconhecimento se dá através do prêmio “Instructor Excellence Award”, concedido a profissionais que ministram treinamentos com o mais alto padrão de qualidade e estão entre os 25% dos CCSIs – Certified Cisco Systems Instructors – que ofereceram uma experiência notável aos seus clientes, medida e atestada pelas pesquisas de satisfação dos alunos ao longo do ano fiscal de 2014, da Cisco.</p>
 	  <hr>	  
 	  <h2>GitHub</h2>
 	  <p>I choose to use GitHub to host the blog using the GitHub Pages feature by creating a repository using my GitHub username.</p>  
