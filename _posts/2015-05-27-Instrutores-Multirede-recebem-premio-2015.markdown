@@ -16,6 +16,8 @@ image: post_one.jpg
 	  <h2>Prêmio é dado aos instrutores que atingiram uma média alta na pesquisa de satisfação e qualidade dos cursos Cisco.</h2>
 	  <p>A Multirede tem a satisfação de informar que os instrutores André Grachina, Fernando Penteado, Marcelo Alcantara e Vitor Mazali foram reconhecidos pela Cisco como parte do seleto grupo dos melhores profissionais em suas áreas de especialização</p>  	  
 	  <p>Esse reconhecimento se dá através do prêmio “Instructor Excellence Award”, concedido a profissionais que ministram treinamentos com o mais alto padrão de qualidade e estão entre os 25% dos CCSIs – Certified Cisco Systems Instructors – que ofereceram uma experiência notável aos seus clientes, medida e atestada pelas pesquisas de satisfação dos alunos ao longo do ano fiscal de 2014, da Cisco.</p>
+	  <p>Parabenizamos estes instrutores e agradecemos seus esforços na contínua busca de qualificações e certificações como diferencial e comprovação de suas proficiências, contribuindo assim com a nossa essência: a prestação de serviços de alta qualidade com excelência técnica.</p>
+	  <p>A premiação de nossos colaboradores muito nos orgulha, confirmando o compromisso com o cuidado e a atenção que temos com cada um de nossos clientes!</p>
 	  <hr>	  
 	  <h2>GitHub</h2>
 	  <p>I choose to use GitHub to host the blog using the GitHub Pages feature by creating a repository using my GitHub username.</p>  
