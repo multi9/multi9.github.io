@@ -161,8 +161,8 @@ image: post_one.jpg
 		<script type="text/javascript">
 			/* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
 			var disqus_shortname = 'pgodoy231githubio'; // required: replace example with your forum shortname
-			var disqus_identifier = '/blog/Instrutores-da-Multirede-recebem-premio-2015';
-			var disqus_url = '/blog/Instrutores-da-Multirede-recebem-premio-2015';
+			var disqus_identifier = '{{ page.url }}';
+			var disqus_url = 'http://multi9.github.io{{ page.url }}';
 			
 			/* * * DON'T EDIT BELOW THIS LINE * * */
 			(function() {
